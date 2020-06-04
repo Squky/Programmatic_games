@@ -13,3 +13,7 @@ dupe_list =  [1, 1,2, 3, 1, 2, 4, 5, 6, 6, 1, 7, 8, 1,2, 5, 2, 4]
 print(remv_dup(mylist))
 
 print(remv_dup(dupe_list))
+
+ts = []
+print(len(ts))
+print(ts==[])
